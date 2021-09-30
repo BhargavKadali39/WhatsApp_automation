@@ -12,3 +12,7 @@ YEAH just one line of pyton code.
 
 Damn, most of my repo are concentrated on single or couple of line of code.
 Thanks to python for making my life much easier than before.
+
+PIP command to install required module is 
+
+    pip install pywhatkit
