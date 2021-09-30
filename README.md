@@ -6,3 +6,4 @@ Using this python module you can easily automate your message to anyone at anyti
 The only requirement are,
 * Host device should be connected to internet.
 * what'sapp web should be working on your default browser.
+One more line of python code and your ready to go.
